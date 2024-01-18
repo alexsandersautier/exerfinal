@@ -1,1 +1,1 @@
-Agenda de contatos persistindo as informações em arquivo.
+Contact directory keeping information on file.
